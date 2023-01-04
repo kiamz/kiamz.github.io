@@ -42,3 +42,42 @@ img{
     text-shadow: 2px 2px 4px black;
     margin: 0;
 }
+.time{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0;
+
+}
+input{
+    width: 220px;
+    margin-left: 40px;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+}
+.start{
+    padding-left: 12px;
+}
+.end{
+    padding-left: 100px;
+}
+.buttoms{
+    display: inline-block;
+    text-align: center;
+}
+.play,
+.back,
+.for{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+.back
+.for
+.play:hover{
+    border-color: #bebebe;
+}
